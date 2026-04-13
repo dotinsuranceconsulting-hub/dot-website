@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dotinsuranceconsulting.com/sitemap.xml
+Sitemap: https://dotinsurtechsolutions.com/sitemap.xml
